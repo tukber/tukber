@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tukber
 - 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Phyton, statistics
+- 🌱 I’m currently learning SQL,Phyton, statistics
 - 📫 How to reach me - arkhipovdmitry@mail.ru
 
 <!---
